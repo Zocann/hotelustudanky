@@ -1,0 +1,39 @@
+
+<div data-aos="@_animationName" data-aos-delay="@_delay" data-aos-duration="@_duration">
+    @ChildContent
+</div>
+
+@code {
+    private string _animationName = "";
+    private string _delay = "";
+    private string _duration = "";
+    
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter] public string AnimationNameSelect { get; set; } = string.Empty;
+
+    [Parameter] public string AnimationDelay { get; set; } = string.Empty;
+    
+    [Parameter] public string AnimationDuration { get; set; } = string.Empty;
+
+    protected override void OnParametersSet()
+    {
+
+        if (!string.IsNullOrEmpty(AnimationNameSelect))
+        {
+            _animationName = AnimationNameSelect;
+        }
+        
+        if (!string.IsNullOrEmpty(AnimationDelay))
+        {
+            _delay = AnimationDelay;
+        }
+        
+        if (!string.IsNullOrEmpty(AnimationDuration))
+        {
+            _duration = AnimationDuration;
+        }
+    }
+
+}

@@ -1,0 +1,55 @@
+.ButtonReservation
+{
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    color: white;
+    font-size: 2vw;
+    margin-top: 1vw;
+    border-radius: 3vw;
+    border: black solid 2px;
+    box-shadow: 2px 2px 1px grey;
+    transition: 0.5s color, background-color;
+}
+.ButtonReservation:hover
+{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.ButtonDiv
+{
+    width: 50%;
+    height: 80%;
+    background-color: black;
+    margin-top: 1vw;
+    border-radius: 6vw;
+    margin-left: 1vw;
+    box-shadow: 2px 2px 1px grey;
+    border: black solid 2px;
+    transition: 0.5s filter, background-color;
+}
+
+#DivOptions:hover
+{
+    background-color: white;
+    transition: 0.5s;
+}
+#DivOptions:hover #IconBars
+{
+    filter: invert(100%);
+    transition: 0.5s;
+}
+
+#DivLogo:hover
+{
+    background-color: white;
+    transition: 0.5s;
+    
+}
+#DivLogo:hover #ButtonLogo
+{
+    filter: invert(100%);
+    transition: 0.5s;
+}

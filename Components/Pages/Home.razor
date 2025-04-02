@@ -1,0 +1,89 @@
+﻿@page "/"
+
+@using Studanka.Components.Layout
+
+@inject IStringLocalizer<Resource> Localizer;
+
+<PageTitle>@Localizer["PageTitle"]</PageTitle>
+
+@*Medium and large AppBar*@
+<div style="position: fixed; z-index: 50; width: 100%; height: 30%;" class="d-none d-md-flex"
+     data-aos="zoom-in" data-aos-duration="1500"
+     data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-center">
+    <AppBar></AppBar>
+</div>
+
+@*Small AppBar*@
+<div class="d-flex d-md-none" style="position: fixed; z-index: 50; width: 100%; height: 30%; bottom: 1vw;" 
+     data-aos="zoom-in" data-aos-duration="1500"
+     data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-center">
+    <AppBar></AppBar>
+</div>
+
+
+<MudPaper Style="top: 0; margin-bottom: 8vw;" Elevation="10">
+    
+    @*Medium and large view*@
+    <MudImage Src="Photos/MainPhoto.jpg" Fluid="true" Elevation="10" Class="HomePhoto d-none d-md-flex z-10" />
+    
+    <MudPaper Style="position: absolute; top: 2vw; left: 38vw; width: 25%; background-color: transparent;" 
+              Elevation="0" Class = "d-none d-md-flex z-20">
+        <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="2000" data-aos-easing="ease-in-out"
+             data-aos-mirror="true">
+           <MudImage Src="Logos/LogoBlack.png" Fluid="true" Class="HomeLogo z-10"/>
+       </div>
+    </MudPaper>
+    
+    
+    @*Small view*@
+    <MudImage Src="Photos/MainPhotoPhone.jpg" Elevation="10" Class="HomePhotoPhone d-flex d-md-none z-10" 
+              Fluid="true"/>
+
+    <MudPaper Style="z-index: 10; position: absolute; top: 5vw; left: 37vw; width: 32%; background-color: transparent" Elevation="0" Class="d-flex d-md-none z-20">
+        <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="2000" data-aos-easing="ease-in-out">
+            <MudImage Src="Logos/LogoBlack.png" Fluid="true" Class="HomeLogo z-10"/>
+        </div>
+    </MudPaper>
+    
+</MudPaper>
+
+@*Indroduction 1*@
+<div class="introduction-1" style="height: 34vw; display: flex; margin-left: 5vw; margin-right: 5vw; margin-bottom: 8vw;" id="trigger-introduction1">
+    <div style="flex: 1; margin-right: 5vw;" data-aos="fade-right" data-aos-duration="2000"
+         data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-bottom">
+        <MudText Align="Align.Justify" Style="font-size: 4vw; text-shadow: 2px 1px 1vw grey;" 
+                 Color="Color.Primary"> @Localizer["Introduction1Header"]</MudText>
+        <MudText Align="Align.Justify" Style="font-size: 2vw">@Localizer["Introduction1"]</MudText>
+    </div>
+    
+    <div style="flex: 1" data-aos="fade-left" data-aos-duration="2000" data-aos-easing="ease-in-out"
+         data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-bottom">
+        <MudImage Src="Photos/WellPhoto.jpg" Fluid="true" Elevation="10" Style="margin-top: 1vw"/>
+    </div>
+</div>
+
+
+@*Indroduction 2*@
+<div class="introduction-2" style="height: 32vw; margin-left: 5vw; margin-right: 5vw;" id="trigger-introduction2">
+    
+    <div style="z-index: 10;" data-aos="fade-down" data-aos-duration="2000" data-aos-easing="ease-in-out"
+         data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-center">
+        <MudImage Src="Photos/PhotoIntroduction2.jpg" Fluid="true" Elevation="10" Style="height: 50%"/>
+    </div>
+
+    <div style="margin-top: 3vw; z-index: 0;" data-aos="fade-up" data-aos-duration="2000"
+         data-aos-anchor="#trigger-introduction2" data-aos-anchor-placement="bottom-bottom">
+        <MudText Align="Align.Justify" Style="font-size: 4vw; text-shadow: 2px 1px 1vw grey;" 
+                 Color="Color.Primary"> @Localizer["Introduction2Header"]</MudText>
+        <MudText Align="Align.Justify" Style="font-size: 2vw">@Localizer["Introduction2"]</MudText>
+    </div>
+
+
+</div>
+
+<div style="height: 2000px"></div>
+
+
+@code {
+    
+}

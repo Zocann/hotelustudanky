@@ -1,0 +1,32 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="PageTitle" xml:space="preserve">
+        <value>Hotel U STUDÁNKY</value>
+    </data>
+    <data name="Introduction1" xml:space="preserve">
+        <value>Náš rodinný hotel se nachází v blízkosti studánky se zázračnou, nikdy nezamrzající a nevysychající vodou. Traduje se, že tato voda v roce 1836 zachránila zdejší obyvatelstvo od cholery, a ještě i dnes se sem pro vodu sjíždějí lidé ze širokého okolí. Říkají, že jim pomáhá s kožními, očními či zažívacími problémy. A i ti, kteří tomu nevěří, Vám potvrdí, jak lahodně tato voda chutná.</value>
+    </data>
+    <data name="Introduction2" xml:space="preserve">
+        <value>Ať už sem zavítáte v kteroukoliv roční dobu, nikdy Vás nezklame krása zdejší přírody. Nabízí své barvy, ticho a relaxaci. Toto malebné údolíčko je považováno za nejromantičtější údolí Moravskoslezských Beskyd. V lese potkáte nejen turisty, ale i jeho původní obyvatele, srnky, jeleny, sojky, veverky…. Louky jsou plné borůvek, ostružin, hub a vzácných stromů a květin, jejichž zvýšený výskyt zaznamenáte především v nedalekém pralese MIONŠÍ.</value>
+    </data>
+    <data name="Introduction1Header" xml:space="preserve">
+        <value>NÁŠ LÉČIVÝ PRAMEN</value>
+    </data>
+    <data name="Introduction2Header" xml:space="preserve">
+        <value>ROMANTICKÁ PŘÍRODA</value>
+    </data>
+    <data name="Reservation" xml:space="preserve">
+        <value>REZERVOVAT</value>
+    </data>
+</root>

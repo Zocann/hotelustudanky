@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e85b952d-22b6-412e-81ed-7a529a2735ec" name="hotelustudanky" url="http://localhost:8080">
+        <fileTransfer mountedRoot="/opt/homebrew/var/www" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

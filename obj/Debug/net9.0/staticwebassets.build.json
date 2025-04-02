@@ -1,0 +1,4426 @@
+{
+  "Version": 1,
+  "Hash": "oxAw0s19MhXyvBzVH/0z1QxmTTpcTxqqDTCrEvaOdpM=",
+  "Source": "Studanka",
+  "BasePath": "_content/Studanka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Studanka/wwwroot",
+      "Source": "Studanka",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d6totk621y",
+      "Integrity": "tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "txmka4fsu8",
+      "Integrity": "IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.js"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0auxr1y6zv-ktv5p09f5j.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Icons/IconBarsWhite#[.{fingerprint=ktv5p09f5j}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5vhdyxvl00",
+      "Integrity": "T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0wz98yz2xy-txmka4fsu8.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kgll6jpim2",
+      "Integrity": "HJ41m6NSZy+/Nlu2QG25Cb6f3+O15YkYNP2pBG355gU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.js"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/7g4sc3k1j2-uw9yjofupa.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Logos/LogoBlackNoText#[.{fingerprint=uw9yjofupa}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wdt8fvsyxk",
+      "Integrity": "xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.svg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/8opchchrgv-g1ju4z7nt7.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Studanka#[.{fingerprint=g1ju4z7nt7}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t2zo316re6",
+      "Integrity": "lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/e5v0hyx5s7-nfzsfjb8t9.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "JavaScript/animation#[.{fingerprint=nfzsfjb8t9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "grunbu3wtc",
+      "Integrity": "hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/g6nxdis8iz-2jeq8efc6q.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "favicon#[.{fingerprint=2jeq8efc6q}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wsw9hizzii",
+      "Integrity": "UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Stylesheets/Home#[.{fingerprint=t3qmww1a1g}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zyx00f5evt",
+      "Integrity": "BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gpdxikg8w2-g1ju4z7nt7.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Studanka#[.{fingerprint=g1ju4z7nt7}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t2zo316re6",
+      "Integrity": "lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Stylesheets/AppBar#[.{fingerprint=e3onarb9e7}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3ehwmicpax",
+      "Integrity": "9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/tzxjg6is5z-d6totk621y.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "rbwttketjb",
+      "Integrity": "GYr/uPtgj4S7f+EQHP/o2vTPLTHeqyjU0GnP/AkMMxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css",
+      "SourceId": "Studanka",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Studanka#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "g1ju4z7nt7",
+      "Integrity": "5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css",
+      "SourceId": "Studanka",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Studanka#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "g1ju4z7nt7",
+      "Integrity": "5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2jeq8efc6q",
+      "Integrity": "8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/Trebuchet.ttf",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Fonts/Trebuchet#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l7nelw4mk5",
+      "Integrity": "/x1J/eY6q9f0/HzQqArHzbG5VABYmI/Ltk18I2Oac4Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/Trebuchet.ttf"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBold.ttf",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Fonts/TrebuchetBold#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdah1g716g",
+      "Integrity": "x98NqhFmVCBGFhT8ImgsaHhSsuHPXG/5GICW9dKo0LI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/TrebuchetBold.ttf"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBoldItalic.ttf",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Fonts/TrebuchetBoldItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "atixc0ksvc",
+      "Integrity": "fqnmxo/9GsdGOSd/7OG0JYouUaqNVNHK5GiLbzmVM4U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/TrebuchetBoldItalic.ttf"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetItalic.ttf",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Fonts/TrebuchetItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "36dxqpu093",
+      "Integrity": "FQErTf5UcND4t12Ys4xGHPgbKVSFBh4TgtwwAwwA8s0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Fonts/TrebuchetItalic.ttf"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Icons/IconBarsWhite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktv5p09f5j",
+      "Integrity": "qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Icons/IconBarsWhite.svg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "JavaScript/animation#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfzsfjb8t9",
+      "Integrity": "nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/JavaScript/animation.js"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlack.png",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Logos/LogoBlack#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tfmvy7fivh",
+      "Integrity": "WdFtjBpQdYNwhU9usIqFjDu0cb3q4w12wazWo7p6l7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logos/LogoBlack.png"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.png",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Logos/LogoBlackNoText#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sd4cxtg5k4",
+      "Integrity": "0Mko9WLxveycrnKSbZWuuNSl7PbCOygXB1wCjD2R4f8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logos/LogoBlackNoText.png"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.svg",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Logos/LogoBlackNoText#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uw9yjofupa",
+      "Integrity": "UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logos/LogoBlackNoText.svg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhite.png",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Logos/LogoWhite#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ue6i8ysgik",
+      "Integrity": "Cn/wLEEsj/PDyZ7IFwMU3hrQKZiQbXhiEdtDFAPm3lQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logos/LogoWhite.png"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhiteNoText.png",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Logos/LogoWhiteNoText#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zxgx6cxm8",
+      "Integrity": "BFelHpEFjlnw7L7TG794jY+QqJBm7St1b9lIPmrwBTg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Logos/LogoWhiteNoText.png"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhoto.jpg",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Photos/MainPhoto#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jtjdi9jrle",
+      "Integrity": "l6vyJMPMPvo3I21QV1ksv1PVeWB0XHu9otBoteDeYbY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Photos/MainPhoto.jpg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoPhone.jpg",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Photos/MainPhotoPhone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6v2g6temxo",
+      "Integrity": "giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Photos/MainPhotoPhone.jpg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/PhotoIntroduction2.jpg",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Photos/PhotoIntroduction2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q8j5ywodds",
+      "Integrity": "qpJfZqSC8f17hZl923m0gZyYcmYbauIvlpuywVt10dU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Photos/PhotoIntroduction2.jpg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/WellPhoto.jpg",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Photos/WellPhoto#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gkwkob20ut",
+      "Integrity": "4CWLdy+lmpRIA/3v4MBtLJYy7grmuyxiGrkcu9zI8TU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Photos/WellPhoto.jpg"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Stylesheets/AppBar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e3onarb9e7",
+      "Integrity": "ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Stylesheets/AppBar.css"
+    },
+    {
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "SourceId": "Studanka",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/",
+      "BasePath": "_content/Studanka",
+      "RelativePath": "Stylesheets/Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3qmww1a1g",
+      "Integrity": "V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Stylesheets/Home.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/tzxjg6is5z-d6totk621y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015476283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64614"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GYr/uPtgj4S7f+EQHP/o2vTPLTHeqyjU0GnP/AkMMxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/tzxjg6is5z-d6totk621y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GYr/uPtgj4S7f+EQHP/o2vTPLTHeqyjU0GnP/AkMMxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GYr/uPtgj4S7f+EQHP/o2vTPLTHeqyjU0GnP/AkMMxM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.d6totk621y.css",
+      "AssetFile": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d6totk621y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tZZda7xjKR8Ut52jto1sSWi1QQsmfoSD9iiGSA03Y4s="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0wz98yz2xy-txmka4fsu8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000077808901"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12851"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJ41m6NSZy+/Nlu2QG25Cb6f3+O15YkYNP2pBG355gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0wz98yz2xy-txmka4fsu8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJ41m6NSZy+/Nlu2QG25Cb6f3+O15YkYNP2pBG355gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJ41m6NSZy+/Nlu2QG25Cb6f3+O15YkYNP2pBG355gU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.txmka4fsu8.js",
+      "AssetFile": "/Users/karelmareth/.nuget/packages/mudblazor/8.4.0/staticwebassets/MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 08:08:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txmka4fsu8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IXuIi7417dQ9MYZ5CAtdW+X0ShICleNv97MFML6i18Y="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/g6nxdis8iz-2jeq8efc6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000342348511"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:28:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:28:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/g6nxdis8iz-2jeq8efc6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:28:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/g6nxdis8iz-2jeq8efc6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000342348511"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:28:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:28:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/g6nxdis8iz-2jeq8efc6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:28:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDfW/g1NO6ZBusSk277DL5ykZQYfBt+KP7lGtjLTDrk="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Trebuchet.l7nelw4mk5.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/Trebuchet.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/x1J/eY6q9f0/HzQqArHzbG5VABYmI/Ltk18I2Oac4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l7nelw4mk5"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/Trebuchet.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/x1J/eY6q9f0/HzQqArHzbG5VABYmI/Ltk18I2Oac4Y="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/Trebuchet.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/Trebuchet.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/x1J/eY6q9f0/HzQqArHzbG5VABYmI/Ltk18I2Oac4Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/x1J/eY6q9f0/HzQqArHzbG5VABYmI/Ltk18I2Oac4Y="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/TrebuchetBold.jdah1g716g.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x98NqhFmVCBGFhT8ImgsaHhSsuHPXG/5GICW9dKo0LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdah1g716g"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/TrebuchetBold.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x98NqhFmVCBGFhT8ImgsaHhSsuHPXG/5GICW9dKo0LI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/TrebuchetBold.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "129360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x98NqhFmVCBGFhT8ImgsaHhSsuHPXG/5GICW9dKo0LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x98NqhFmVCBGFhT8ImgsaHhSsuHPXG/5GICW9dKo0LI="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/TrebuchetBoldItalic.atixc0ksvc.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqnmxo/9GsdGOSd/7OG0JYouUaqNVNHK5GiLbzmVM4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "atixc0ksvc"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/TrebuchetBoldItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqnmxo/9GsdGOSd/7OG0JYouUaqNVNHK5GiLbzmVM4U="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/TrebuchetBoldItalic.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqnmxo/9GsdGOSd/7OG0JYouUaqNVNHK5GiLbzmVM4U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqnmxo/9GsdGOSd/7OG0JYouUaqNVNHK5GiLbzmVM4U="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/TrebuchetItalic.36dxqpu093.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQErTf5UcND4t12Ys4xGHPgbKVSFBh4TgtwwAwwA8s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "36dxqpu093"
+        },
+        {
+          "Name": "label",
+          "Value": "Fonts/TrebuchetItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQErTf5UcND4t12Ys4xGHPgbKVSFBh4TgtwwAwwA8s0="
+        }
+      ]
+    },
+    {
+      "Route": "Fonts/TrebuchetItalic.ttf",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQErTf5UcND4t12Ys4xGHPgbKVSFBh4TgtwwAwwA8s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 08:49:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQErTf5UcND4t12Ys4xGHPgbKVSFBh4TgtwwAwwA8s0="
+        }
+      ]
+    },
+    {
+      "Route": "Icons/IconBarsWhite.ktv5p09f5j.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0auxr1y6zv-ktv5p09f5j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003355704698"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktv5p09f5j"
+        },
+        {
+          "Name": "label",
+          "Value": "Icons/IconBarsWhite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc="
+        }
+      ]
+    },
+    {
+      "Route": "Icons/IconBarsWhite.ktv5p09f5j.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktv5p09f5j"
+        },
+        {
+          "Name": "label",
+          "Value": "Icons/IconBarsWhite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc="
+        }
+      ]
+    },
+    {
+      "Route": "Icons/IconBarsWhite.ktv5p09f5j.svg.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0auxr1y6zv-ktv5p09f5j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktv5p09f5j"
+        },
+        {
+          "Name": "label",
+          "Value": "Icons/IconBarsWhite.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs="
+        }
+      ]
+    },
+    {
+      "Route": "Icons/IconBarsWhite.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0auxr1y6zv-ktv5p09f5j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003355704698"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc="
+        }
+      ]
+    },
+    {
+      "Route": "Icons/IconBarsWhite.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qMasw+g71mrmQRrr3rBYXpIw8SwbAlFepM7xhuNiJDc="
+        }
+      ]
+    },
+    {
+      "Route": "Icons/IconBarsWhite.svg.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0auxr1y6zv-ktv5p09f5j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:50:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T66hwSyXjWTVbqYs/5Xjb/OvXQ27fNUms2lQNlR/8fs="
+        }
+      ]
+    },
+    {
+      "Route": "JavaScript/animation.js",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/e5v0hyx5s7-nfzsfjb8t9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.010869565217"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw="
+        }
+      ]
+    },
+    {
+      "Route": "JavaScript/animation.js",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw="
+        }
+      ]
+    },
+    {
+      "Route": "JavaScript/animation.js.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/e5v0hyx5s7-nfzsfjb8t9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk="
+        }
+      ]
+    },
+    {
+      "Route": "JavaScript/animation.nfzsfjb8t9.js",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/e5v0hyx5s7-nfzsfjb8t9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.010869565217"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfzsfjb8t9"
+        },
+        {
+          "Name": "label",
+          "Value": "JavaScript/animation.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw="
+        }
+      ]
+    },
+    {
+      "Route": "JavaScript/animation.nfzsfjb8t9.js",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfzsfjb8t9"
+        },
+        {
+          "Name": "label",
+          "Value": "JavaScript/animation.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRJ4MQVSPOjjMHRSastgi5aYQw0nW/ZawQ15Ga21Btw="
+        }
+      ]
+    },
+    {
+      "Route": "JavaScript/animation.nfzsfjb8t9.js.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/e5v0hyx5s7-nfzsfjb8t9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:17:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfzsfjb8t9"
+        },
+        {
+          "Name": "label",
+          "Value": "JavaScript/animation.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hLETzBNDZUKXCu1OjUYYifFdwv7spHmdaTnvPIrHozk="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlack.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlack.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WdFtjBpQdYNwhU9usIqFjDu0cb3q4w12wazWo7p6l7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 09:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WdFtjBpQdYNwhU9usIqFjDu0cb3q4w12wazWo7p6l7g="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlack.tfmvy7fivh.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlack.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WdFtjBpQdYNwhU9usIqFjDu0cb3q4w12wazWo7p6l7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 09:33:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tfmvy7fivh"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoBlack.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WdFtjBpQdYNwhU9usIqFjDu0cb3q4w12wazWo7p6l7g="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Mko9WLxveycrnKSbZWuuNSl7PbCOygXB1wCjD2R4f8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 12:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Mko9WLxveycrnKSbZWuuNSl7PbCOygXB1wCjD2R4f8="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.sd4cxtg5k4.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Mko9WLxveycrnKSbZWuuNSl7PbCOygXB1wCjD2R4f8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 12:45:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sd4cxtg5k4"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoBlackNoText.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Mko9WLxveycrnKSbZWuuNSl7PbCOygXB1wCjD2R4f8="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/7g4sc3k1j2-uw9yjofupa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000436109900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2292"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:10:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:10:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.svg.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/7g4sc3k1j2-uw9yjofupa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:10:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.uw9yjofupa.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/7g4sc3k1j2-uw9yjofupa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000436109900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2292"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:10:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uw9yjofupa"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoBlackNoText.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.uw9yjofupa.svg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:10:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uw9yjofupa"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoBlackNoText.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UtbCxf5lhOqojkAgk+T7MhWH02ZUNahsNAfHMbr/NV0="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoBlackNoText.uw9yjofupa.svg.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/7g4sc3k1j2-uw9yjofupa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 14:10:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uw9yjofupa"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoBlackNoText.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNG7stpQn1Y8ligXMHKNLSXpXxoUsEt2fb//AlzwPvo="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoWhite.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhite.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cn/wLEEsj/PDyZ7IFwMU3hrQKZiQbXhiEdtDFAPm3lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 10:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cn/wLEEsj/PDyZ7IFwMU3hrQKZiQbXhiEdtDFAPm3lQ="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoWhite.ue6i8ysgik.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhite.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16097"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cn/wLEEsj/PDyZ7IFwMU3hrQKZiQbXhiEdtDFAPm3lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 10:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ue6i8ysgik"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoWhite.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cn/wLEEsj/PDyZ7IFwMU3hrQKZiQbXhiEdtDFAPm3lQ="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoWhiteNoText.0zxgx6cxm8.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhiteNoText.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BFelHpEFjlnw7L7TG794jY+QqJBm7St1b9lIPmrwBTg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 11:48:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zxgx6cxm8"
+        },
+        {
+          "Name": "label",
+          "Value": "Logos/LogoWhiteNoText.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BFelHpEFjlnw7L7TG794jY+QqJBm7St1b9lIPmrwBTg="
+        }
+      ]
+    },
+    {
+      "Route": "Logos/LogoWhiteNoText.png",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhiteNoText.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BFelHpEFjlnw7L7TG794jY+QqJBm7St1b9lIPmrwBTg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Mar 2025 11:48:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BFelHpEFjlnw7L7TG794jY+QqJBm7St1b9lIPmrwBTg="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/MainPhoto.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2079033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l6vyJMPMPvo3I21QV1ksv1PVeWB0XHu9otBoteDeYbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 09:23:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l6vyJMPMPvo3I21QV1ksv1PVeWB0XHu9otBoteDeYbY="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/MainPhoto.jtjdi9jrle.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2079033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l6vyJMPMPvo3I21QV1ksv1PVeWB0XHu9otBoteDeYbY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 09:23:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtjdi9jrle"
+        },
+        {
+          "Name": "label",
+          "Value": "Photos/MainPhoto.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l6vyJMPMPvo3I21QV1ksv1PVeWB0XHu9otBoteDeYbY="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/MainPhotoPhone.6v2g6temxo.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoPhone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1568861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:59:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6v2g6temxo"
+        },
+        {
+          "Name": "label",
+          "Value": "Photos/MainPhotoPhone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/MainPhotoPhone.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoPhone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1568861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:59:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/PhotoIntroduction2.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/PhotoIntroduction2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3129832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpJfZqSC8f17hZl923m0gZyYcmYbauIvlpuywVt10dU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 15:03:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpJfZqSC8f17hZl923m0gZyYcmYbauIvlpuywVt10dU="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/PhotoIntroduction2.q8j5ywodds.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/PhotoIntroduction2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3129832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qpJfZqSC8f17hZl923m0gZyYcmYbauIvlpuywVt10dU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 15:03:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q8j5ywodds"
+        },
+        {
+          "Name": "label",
+          "Value": "Photos/PhotoIntroduction2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qpJfZqSC8f17hZl923m0gZyYcmYbauIvlpuywVt10dU="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/WellPhoto.gkwkob20ut.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/WellPhoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1652673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CWLdy+lmpRIA/3v4MBtLJYy7grmuyxiGrkcu9zI8TU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:45:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gkwkob20ut"
+        },
+        {
+          "Name": "label",
+          "Value": "Photos/WellPhoto.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CWLdy+lmpRIA/3v4MBtLJYy7grmuyxiGrkcu9zI8TU="
+        }
+      ]
+    },
+    {
+      "Route": "Photos/WellPhoto.jpg",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/WellPhoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1652673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4CWLdy+lmpRIA/3v4MBtLJYy7grmuyxiGrkcu9zI8TU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 12:45:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4CWLdy+lmpRIA/3v4MBtLJYy7grmuyxiGrkcu9zI8TU="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.bundle.scp.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/8opchchrgv-g1ju4z7nt7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.bundle.scp.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.bundle.scp.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/8opchchrgv-g1ju4z7nt7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.g1ju4z7nt7.bundle.scp.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/8opchchrgv-g1ju4z7nt7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ju4z7nt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Studanka.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.g1ju4z7nt7.bundle.scp.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ju4z7nt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Studanka.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.g1ju4z7nt7.bundle.scp.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/8opchchrgv-g1ju4z7nt7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ju4z7nt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Studanka.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.g1ju4z7nt7.styles.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gpdxikg8w2-g1ju4z7nt7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ju4z7nt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Studanka.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.g1ju4z7nt7.styles.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ju4z7nt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Studanka.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.g1ju4z7nt7.styles.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gpdxikg8w2-g1ju4z7nt7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g1ju4z7nt7"
+        },
+        {
+          "Name": "label",
+          "Value": "Studanka.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.styles.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gpdxikg8w2-g1ju4z7nt7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.styles.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5NsKWq+x4QorJUX79U0YTQbspaD0jw4ELZ8le2yLkB8="
+        }
+      ]
+    },
+    {
+      "Route": "Studanka.styles.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gpdxikg8w2-g1ju4z7nt7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 08:55:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lW4KwihJRM1H9we9qAEO+zyVtEi6ybQS8CDs/3VrVBc="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/AppBar.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003184713376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/AppBar.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/AppBar.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/AppBar.e3onarb9e7.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003184713376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e3onarb9e7"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/AppBar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/AppBar.e3onarb9e7.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e3onarb9e7"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/AppBar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/AppBar.e3onarb9e7.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e3onarb9e7"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/AppBar.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006172839506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.t3qmww1a1g.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006172839506"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3qmww1a1g"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.t3qmww1a1g.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3qmww1a1g"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.t3qmww1a1g.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3qmww1a1g"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE="
+        }
+      ]
+    }
+  ]
+}

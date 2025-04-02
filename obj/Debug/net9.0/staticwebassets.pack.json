@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css",
+      "PackagePath": "staticwebassets/Studanka.g1ju4z7nt7.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/Trebuchet.ttf",
+      "PackagePath": "staticwebassets/Fonts/Trebuchet.ttf"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBold.ttf",
+      "PackagePath": "staticwebassets/Fonts/TrebuchetBold.ttf"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetBoldItalic.ttf",
+      "PackagePath": "staticwebassets/Fonts/TrebuchetBoldItalic.ttf"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/TrebuchetItalic.ttf",
+      "PackagePath": "staticwebassets/Fonts/TrebuchetItalic.ttf"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg",
+      "PackagePath": "staticwebassets/Icons/IconBarsWhite.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js",
+      "PackagePath": "staticwebassets/JavaScript/animation.js"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlack.png",
+      "PackagePath": "staticwebassets/Logos/LogoBlack.png"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.png",
+      "PackagePath": "staticwebassets/Logos/LogoBlackNoText.png"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoBlackNoText.svg",
+      "PackagePath": "staticwebassets/Logos/LogoBlackNoText.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhite.png",
+      "PackagePath": "staticwebassets/Logos/LogoWhite.png"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhiteNoText.png",
+      "PackagePath": "staticwebassets/Logos/LogoWhiteNoText.png"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhoto.jpg",
+      "PackagePath": "staticwebassets/Photos/MainPhoto.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoPhone.jpg",
+      "PackagePath": "staticwebassets/Photos/MainPhotoPhone.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/PhotoIntroduction2.jpg",
+      "PackagePath": "staticwebassets/Photos/PhotoIntroduction2.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/WellPhoto.jpg",
+      "PackagePath": "staticwebassets/Photos/WellPhoto.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
+      "PackagePath": "staticwebassets/Stylesheets/AppBar.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "PackagePath": "staticwebassets/Stylesheets/Home.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Studanka.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Studanka.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Studanka.props",
+      "PackagePath": "build\\Studanka.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Studanka.props",
+      "PackagePath": "buildMultiTargeting\\Studanka.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Studanka.props",
+      "PackagePath": "buildTransitive\\Studanka.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

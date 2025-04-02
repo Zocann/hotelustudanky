@@ -1,0 +1,32 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="PageTitle" xml:space="preserve">
+        <value>Hotel PRZY ŹRÓDLE</value>
+    </data>
+    <data name="Introduction1" xml:space="preserve">
+        <value>Nasz rodzinny hotel położony jest w pobliżu studni z cudowną wodą, która nigdy nie zamarza i nigdy nie wysycha. Mówi się, że woda ta uratowała miejscową ludność przed cholerą w 1836 roku i do dziś po wodę przybywają tu ludzie z daleka. Mówią, że pomaga im przy problemach skórnych, oczu czy trawiennych. A nawet ci, którzy w to nie wierzą, potwierdzą, jak pysznie smakuje ta woda.</value>
+    </data>
+    <data name="Introduction2" xml:space="preserve">
+        <value>Bez względu na porę roku, którą tu odwiedzisz, nigdy nie rozczarujesz się pięknem tutejszej przyrody. Oferuje swoje kolory, ciszę i relaks. Ta malownicza dolina uznawana jest za najbardziej romantyczną dolinę Beskidu Morawsko-Śląskiego. W lesie spotkasz nie tylko turystów, ale także jego pierwotnych mieszkańców, sarny, jelenie, sójki, wiewiórki... Łąki są pełne jagód, jeżyn, grzybów oraz rzadkich drzew i kwiatów, których zwiększone występowanie zauważysz szczególnie w pobliskim lesie MIONŠÍ.</value>
+    </data>
+    <data name="Introduction1Header" xml:space="preserve">
+        <value>NASZA LECZNICZA WIOSNA</value>
+    </data>
+    <data name="Introduction2Header" xml:space="preserve">
+        <value>ROMANTYCZNA NATURA</value>
+    </data>
+    <data name="Reservation" xml:space="preserve">
+        <value>REZERWACJA</value>
+    </data>
+</root>

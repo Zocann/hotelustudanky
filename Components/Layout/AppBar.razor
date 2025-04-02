@@ -1,0 +1,57 @@
+@inject IStringLocalizer<Resource> Localizer;
+
+@*Medium and large app bar*@
+<div class="AppBar d-none d-md-flex">
+   
+    <div style="flex: 1;">
+        <button class="AppBarButton ButtonReservation" style="margin-left: 15%">@Localizer["Reservation"]</button>
+    </div>
+    
+    <div style="flex: 1; display: flex; margin-right: 10%">
+        <div style="flex: 1;" id="DivLogo" class="ButtonDiv">
+            <button style="background-color: transparent; width: 90%; height: 90%;">
+                <img src="Logos/LogoWhiteNoText.png" id="ButtonLogo" 
+                     style="height: 85%; position: absolute; z-index: 100; margin-left: 12%; margin-top: 7%"/>
+            </button>
+        </div>
+        
+        <div style="flex: 1;" id="DivOptions" class="ButtonDiv">
+            
+            <button style="background-color: transparent; width: 90%; height: 90%" id="ButtonBars">
+                <img src="Icons/IconBarsWhite.svg" id="IconBars"
+                     style="height: 50%; position: absolute; z-index: 100; margin-left: 6%; margin-top: 3%"/>
+            </button>
+            
+        </div>
+    </div>
+</div>
+
+
+@*Small app bar*@
+<div class="AppBar d-flex d-md-none" style="bottom: 5px;">
+
+    <div style="flex: 1;">
+        <button class="AppBarButton ButtonReservation" style="margin-left: 15%">@Localizer["Reservation"]</button>
+    </div>
+
+    <div style="flex: 1; display: flex; margin-right: 10%">
+        <div style="flex: 1;" id="DivLogoPhone" class="ButtonDiv">
+            <button style="background-color: transparent; width: 90%; height: 90%;">
+                <img src="Logos/LogoWhiteNoText.png" id="ButtonLogoPhone"
+                     style="height: 85%; position: absolute; z-index: 100; margin-left: 12%; margin-top: 7%"/>
+            </button>
+        </div>
+
+        <div style="flex: 1;" id="DivOptionsPhone" class="ButtonDiv">
+            <button style="background-color: transparent; width: 90%; height: 90%" id="ButtonBarsPhone">
+                <img src="Icons/IconBarsWhite.svg" id="IconBarsPhone"
+                     style="height: 50%; position: absolute; z-index: 100; margin-left: 14%; margin-top: 3%"/>
+            </button>
+
+        </div>
+    </div>
+</div>
+
+@code {
+    
+}

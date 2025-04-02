@@ -1,0 +1,29 @@
+@using Microsoft.Extensions.FileSystemGlobbing.Internal.PathSegments
+@inject NavigationManager Navigation;
+    
+    <MudElement>
+        <MudButtonGroup Style="height: 30px" Color="Color.Primary" Variant="Variant.Text">
+        <MudButton  Style="font-size: 20px" OnClick='(() => ChangeLanguage("cs-CZ"))'>CZ</MudButton>
+        <MudButton  Style="font-size: 20px" OnClick='(() => ChangeLanguage("en-US"))'>EN</MudButton>
+        <MudButton  Style="font-size: 20px" OnClick='(() => ChangeLanguage("pl-PL"))'>PL</MudButton>
+        </MudButtonGroup> 
+        
+    </MudElement>
+
+
+@code {
+
+    public void ChangeLanguage(string value)
+    {
+        if (CultureInfo.CurrentCulture.Name != value)
+        {
+            var uri = new Uri(Navigation.Uri)
+                .GetComponents(UriComponents.PathAndQuery, UriFormat.Unescaped);
+            var cultureEscaped = Uri.EscapeDataString(value);
+            var uriEscaped = Uri.EscapeDataString(uri);
+
+            Navigation.NavigateTo($"Culture/Set?culture={cultureEscaped}&redirectUri={uriEscaped}", forceLoad: true);
+        }
+    }
+
+}

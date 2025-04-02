@@ -1,0 +1,26 @@
+
+.HomePhoto
+{
+
+}
+
+.HomeLogo
+{
+    
+}
+
+.AppBar
+{
+    top: 0; 
+    right: 30vw; 
+    left: 30vw; 
+    height: 7vw; 
+    position: fixed;
+    display: flex; 
+    z-index: 50;
+}
+
+h2
+{
+    text-shadow: 2px 1px 1px grey;
+}
