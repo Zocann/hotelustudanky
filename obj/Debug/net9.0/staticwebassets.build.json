@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oxAw0s19MhXyvBzVH/0z1QxmTTpcTxqqDTCrEvaOdpM=",
+  "Hash": "jGrk3ECAGGojDJx6ohodMWozex27XjtuSS/EDuge99A=",
   "Source": "Studanka",
   "BasePath": "_content/Studanka",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-1pw9a0zmth.gz",
       "SourceId": "Studanka",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Studanka",
-      "RelativePath": "Stylesheets/Home#[.{fingerprint=t3qmww1a1g}]?.css.gz",
+      "RelativePath": "Stylesheets/Home#[.{fingerprint=1pw9a0zmth}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zyx00f5evt",
-      "Integrity": "BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=",
+      "Fingerprint": "k1f1r2hz1a",
+      "Integrity": "mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css"
@@ -227,12 +227,12 @@
       "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/bundle/Studanka.styles.css"
     },
     {
-      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Identity": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-vn7kna34ub.gz",
       "SourceId": "Studanka",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/Studanka",
-      "RelativePath": "Stylesheets/AppBar#[.{fingerprint=e3onarb9e7}]?.css.gz",
+      "RelativePath": "Stylesheets/AppBar#[.{fingerprint=vn7kna34ub}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -241,8 +241,8 @@
       "RelatedAsset": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3ehwmicpax",
-      "Integrity": "9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=",
+      "Fingerprint": "d3xi6y95os",
+      "Integrity": "9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css"
@@ -598,8 +598,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6v2g6temxo",
-      "Integrity": "giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=",
+      "Fingerprint": "3vjip9e91z",
+      "Integrity": "D9LNelLQwDxM/lBfZMu4pTtw17+weczMDNoKowWo+QE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Photos/MainPhotoPhone.jpg"
@@ -661,8 +661,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e3onarb9e7",
-      "Integrity": "ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=",
+      "Fingerprint": "vn7kna34ub",
+      "Integrity": "y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Stylesheets/AppBar.css"
@@ -682,8 +682,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t3qmww1a1g",
-      "Integrity": "V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=",
+      "Fingerprint": "1pw9a0zmth",
+      "Integrity": "O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Stylesheets/Home.css"
@@ -2985,7 +2985,7 @@
       ]
     },
     {
-      "Route": "Photos/MainPhotoPhone.6v2g6temxo.jpg",
+      "Route": "Photos/MainPhotoPhone.3vjip9e91z.jpg",
       "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoPhone.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2995,7 +2995,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1568861"
+          "Value": "1662842"
         },
         {
           "Name": "Content-Type",
@@ -3003,11 +3003,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=\""
+          "Value": "\"D9LNelLQwDxM/lBfZMu4pTtw17+weczMDNoKowWo+QE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 11:59:34 GMT"
+          "Value": "Wed, 02 Apr 2025 14:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3017,7 +3017,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6v2g6temxo"
+          "Value": "3vjip9e91z"
         },
         {
           "Name": "label",
@@ -3025,7 +3025,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE="
+          "Value": "sha256-D9LNelLQwDxM/lBfZMu4pTtw17+weczMDNoKowWo+QE="
         }
       ]
     },
@@ -3040,7 +3040,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1568861"
+          "Value": "1662842"
         },
         {
           "Name": "Content-Type",
@@ -3048,11 +3048,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=\""
+          "Value": "\"D9LNelLQwDxM/lBfZMu4pTtw17+weczMDNoKowWo+QE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 11:59:34 GMT"
+          "Value": "Wed, 02 Apr 2025 14:34:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3062,7 +3062,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE="
+          "Value": "sha256-D9LNelLQwDxM/lBfZMu4pTtw17+weczMDNoKowWo+QE="
         }
       ]
     },
@@ -3828,12 +3828,12 @@
     },
     {
       "Route": "Stylesheets/AppBar.css",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-vn7kna34ub.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003184713376"
+          "Quality": "0.001821493625"
         }
       ],
       "ResponseHeaders": [
@@ -3843,15 +3843,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "313"
+          "Value": "548"
         },
         {
           "Name": "ETag",
-          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+          "Value": "\"9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+          "Value": "Sat, 05 Apr 2025 10:37:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3871,13 +3871,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+          "Value": "W/\"y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+          "Value": "sha256-y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w="
         }
       ]
     },
@@ -3892,7 +3892,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "939"
+          "Value": "2635"
         },
         {
           "Name": "Content-Type",
@@ -3900,11 +3900,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+          "Value": "\"y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+          "Value": "Sat, 05 Apr 2025 10:37:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3914,13 +3914,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+          "Value": "sha256-y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w="
         }
       ]
     },
     {
       "Route": "Stylesheets/AppBar.css.gz",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-vn7kna34ub.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3929,7 +3929,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "313"
+          "Value": "548"
         },
         {
           "Name": "Content-Type",
@@ -3937,11 +3937,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+          "Value": "\"9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+          "Value": "Sat, 05 Apr 2025 10:37:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3959,18 +3959,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus="
+          "Value": "sha256-9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8="
         }
       ]
     },
     {
-      "Route": "Stylesheets/AppBar.e3onarb9e7.css",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Route": "Stylesheets/AppBar.vn7kna34ub.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-vn7kna34ub.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003184713376"
+          "Quality": "0.001821493625"
         }
       ],
       "ResponseHeaders": [
@@ -3980,15 +3980,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "313"
+          "Value": "548"
         },
         {
           "Name": "ETag",
-          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+          "Value": "\"9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+          "Value": "Sat, 05 Apr 2025 10:37:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4008,13 +4008,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+          "Value": "W/\"y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e3onarb9e7"
+          "Value": "vn7kna34ub"
         },
         {
           "Name": "label",
@@ -4022,12 +4022,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+          "Value": "sha256-y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w="
         }
       ]
     },
     {
-      "Route": "Stylesheets/AppBar.e3onarb9e7.css",
+      "Route": "Stylesheets/AppBar.vn7kna34ub.css",
       "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4037,7 +4037,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "939"
+          "Value": "2635"
         },
         {
           "Name": "Content-Type",
@@ -4045,11 +4045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=\""
+          "Value": "\"y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+          "Value": "Sat, 05 Apr 2025 10:37:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4059,7 +4059,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e3onarb9e7"
+          "Value": "vn7kna34ub"
         },
         {
           "Name": "label",
@@ -4067,13 +4067,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE="
+          "Value": "sha256-y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w="
         }
       ]
     },
     {
-      "Route": "Stylesheets/AppBar.e3onarb9e7.css.gz",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz",
+      "Route": "Stylesheets/AppBar.vn7kna34ub.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-vn7kna34ub.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4082,7 +4082,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "313"
+          "Value": "548"
         },
         {
           "Name": "Content-Type",
@@ -4090,11 +4090,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus=\""
+          "Value": "\"9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 09:55:54 GMT"
+          "Value": "Sat, 05 Apr 2025 10:37:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4112,7 +4112,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "e3onarb9e7"
+          "Value": "vn7kna34ub"
         },
         {
           "Name": "label",
@@ -4120,18 +4120,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9YHO1VB40LaFcgACW7yvK4nKztUSA+km8RnlSwRTPus="
+          "Value": "sha256-9ylo/Aovu879UUH5y6FSyABgE09Rz+5pO/nogv8O9w8="
         }
       ]
     },
     {
-      "Route": "Stylesheets/Home.css",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
+      "Route": "Stylesheets/Home.1pw9a0zmth.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-1pw9a0zmth.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.006172839506"
+          "Quality": "0.012195121951"
         }
       ],
       "ResponseHeaders": [
@@ -4141,19 +4141,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "161"
+          "Value": "81"
         },
         {
           "Name": "ETag",
-          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
+          "Value": "\"mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+          "Value": "Sat, 05 Apr 2025 09:34:54 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4169,18 +4169,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+          "Value": "W/\"O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "1pw9a0zmth"
+        },
+        {
+          "Name": "label",
+          "Value": "Stylesheets/Home.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
+          "Value": "sha256-O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk="
         }
       ]
     },
     {
-      "Route": "Stylesheets/Home.css",
+      "Route": "Stylesheets/Home.1pw9a0zmth.css",
       "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4190,7 +4198,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "216"
+          "Value": "80"
         },
         {
           "Name": "Content-Type",
@@ -4198,121 +4206,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+          "Value": "\"O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
-        }
-      ]
-    },
-    {
-      "Route": "Stylesheets/Home.css.gz",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "161"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE="
-        }
-      ]
-    },
-    {
-      "Route": "Stylesheets/Home.t3qmww1a1g.css",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.006172839506"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "161"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+          "Value": "Sat, 05 Apr 2025 09:34:54 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t3qmww1a1g"
+          "Value": "1pw9a0zmth"
         },
         {
           "Name": "label",
@@ -4320,13 +4228,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
+          "Value": "sha256-O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk="
         }
       ]
     },
     {
-      "Route": "Stylesheets/Home.t3qmww1a1g.css",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "Route": "Stylesheets/Home.1pw9a0zmth.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-1pw9a0zmth.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4335,7 +4243,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "216"
+          "Value": "81"
         },
         {
           "Name": "Content-Type",
@@ -4343,56 +4251,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=\""
+          "Value": "\"mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t3qmww1a1g"
-        },
-        {
-          "Name": "label",
-          "Value": "Stylesheets/Home.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM="
-        }
-      ]
-    },
-    {
-      "Route": "Stylesheets/Home.t3qmww1a1g.css.gz",
-      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "161"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 08:49:05 GMT"
+          "Value": "Sat, 05 Apr 2025 09:34:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4410,7 +4273,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "t3qmww1a1g"
+          "Value": "1pw9a0zmth"
         },
         {
           "Name": "label",
@@ -4418,7 +4281,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BehpXnfcAriOUFjg6zaXP8KR1PnjtAegVdXECwQ8WPE="
+          "Value": "sha256-mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-1pw9a0zmth.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012195121951"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 09:34:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.css",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 09:34:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk="
+        }
+      ]
+    },
+    {
+      "Route": "Stylesheets/Home.css.gz",
+      "AssetFile": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-1pw9a0zmth.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 09:34:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mOoZ86sI1o/hLxvPrf/T/6uknq2Lbt0uLsXMY7x0OOc="
         }
       ]
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Studanka")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute(" ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bfbdb1e918a19387a8d9e6be1defd676d1de275")]
 [assembly: System.Reflection.AssemblyProductAttribute("Studanka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Studanka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

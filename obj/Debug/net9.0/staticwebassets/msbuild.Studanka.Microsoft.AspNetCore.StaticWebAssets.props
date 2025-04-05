@@ -246,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6v2g6temxo</Fingerprint>
-      <Integrity>giwnILXwiXkGgOP/isBmotyZ2nySzC3nOwEnyqYy0FE=</Integrity>
+      <Fingerprint>3vjip9e91z</Fingerprint>
+      <Integrity>D9LNelLQwDxM/lBfZMu4pTtw17+weczMDNoKowWo+QE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Photos\MainPhotoPhone.jpg'))</OriginalItemSpec>
@@ -318,8 +318,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>e3onarb9e7</Fingerprint>
-      <Integrity>ul8A/Zj3eUUuxO41HLlCjz/Fmt4FzID/15VcNDrQTeE=</Integrity>
+      <Fingerprint>vn7kna34ub</Fingerprint>
+      <Integrity>y3L2LaoGKbErcDrR4NNhaWi3fYn4ySCgv6SDhV7Zz2w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Stylesheets\AppBar.css'))</OriginalItemSpec>
@@ -336,8 +336,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>t3qmww1a1g</Fingerprint>
-      <Integrity>V6J4fuT7OKr1WCuIp6mwf8GzWjl2zMvD0TRYOCcLYOM=</Integrity>
+      <Fingerprint>1pw9a0zmth</Fingerprint>
+      <Integrity>O/hOagVA+5yJsK388BuOD8q+F43San0OY8butnvBYkk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Stylesheets\Home.css'))</OriginalItemSpec>

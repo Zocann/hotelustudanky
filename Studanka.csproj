@@ -28,4 +28,10 @@
       <DependentUpon>Resource.resx</DependentUpon>
     </Compile>
   </ItemGroup>
+
+
+  <ItemGroup>
+    <Folder Include="Components\MobileView\" />
+    <Folder Include="Components\RegularView\" />
+  </ItemGroup>
 </Project>

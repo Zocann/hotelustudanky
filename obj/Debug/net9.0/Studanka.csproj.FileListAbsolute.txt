@@ -61,6 +61,7 @@
 /Users/karelmareth/Documents/Projects/Studanka/bin/Debug/net9.0/package-lock.json
 /Users/karelmareth/Documents/Projects/Studanka/bin/Debug/net9.0/package.json
 /Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/e5v0hyx5s7-nfzsfjb8t9.gz
-/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-t3qmww1a1g.gz
 /Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/0auxr1y6zv-ktv5p09f5j.gz
-/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-e3onarb9e7.gz
+/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/Studanka.sourcelink.json
+/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/gim2xylqfu-1pw9a0zmth.gz
+/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/compressed/q0omptbtdu-vn7kna34ub.gz
