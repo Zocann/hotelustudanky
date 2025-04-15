@@ -1,0 +1,81 @@
+.footer
+{
+    display: flex;
+    width: 100%;
+    height: 25vw;
+    background-color: #202020;
+}
+
+.footer-div-logo
+{
+    flex: 1;
+    height: 100%;
+}
+
+.footer-div-project
+{
+    display: flex;
+    flex: 2;
+    height: 100%;
+    align-items: flex-end;
+}
+
+.footer-text1
+{
+    display: flex;
+    position: absolute;
+    text-align: left;
+    bottom: 1vw;
+    color: white;
+    margin-left: 1vw;
+    width: 25%;
+}
+
+.footer-logo
+{
+    position: absolute;
+    width: 15%;
+    margin-left: 5%;
+    margin-top: 6vw;
+}
+
+.footer-text2
+{
+    flex: 2; 
+    position: relative;
+    margin-right: 3vw;
+    text-align: right;
+    bottom: 5vw;
+    color: white;
+}
+
+.footer-images
+{
+    flex: 1;
+    position: relative;
+    height: 70%;
+    width: 100%;
+}
+
+
+
+.footer-mobile
+{
+    width: 100%;
+    height: 300vw;
+    background-color: #202020;
+}
+
+.footer-logo-mobile
+{
+    left: 2vw;
+    right: 2vw;
+    position: absolute;
+}
+
+.footer-div-project-mobile
+{
+    position: absolute;
+    left: 2vw;
+    right: 2vw;
+}

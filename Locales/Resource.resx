@@ -45,4 +45,55 @@
     <data name="Reservation" xml:space="preserve">
         <value />
     </data>
+    <data name="DrawerAccommodations" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerRestaurant" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerLounge" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerPriceList" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerCancellationConditions" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerRelax" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerMassages" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerPool" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerSurroundings" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerVillage" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerPlayground" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerRoutes" xml:space="preserve">
+        <value />
+    </data>
+    <data name="DrawerContacts" xml:space="preserve">
+        <value />
+    </data>
+    <data name="Introduction3" xml:space="preserve">
+        <value />
+    </data>
+    <data name="Introduction3Header" xml:space="preserve">
+        <value />
+    </data>
+    <data name="Promotion" xml:space="preserve">
+        <value />
+    </data>
+    <data name="AccommodationContent" xml:space="preserve">
+        <value />
+    </data>
 </root>

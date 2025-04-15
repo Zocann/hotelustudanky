@@ -1,86 +1,101 @@
 ﻿@page "/"
 
 @using Studanka.Components.Layout
+@using Studanka.Controllers
 
 @inject IStringLocalizer<Resource> Localizer;
 
 <PageTitle>@Localizer["PageTitle"]</PageTitle>
 
+<Drawer></Drawer>
+
 @*Medium and large AppBar*@
-<div style="position: fixed; z-index: 50; width: 100%;" class="d-none d-md-flex"
-     data-aos="zoom-in" data-aos-duration="500" data-aos-easing="ease-in-out"
+<div style="position: fixed; z-index: 50; width: 100%; height: auto" class="d-none d-lg-flex"
+     data-aos="fade-down" data-aos-duration="500" data-aos-easing="ease-in-out"
      data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-center">
     <AppBar></AppBar>
 </div>
 
 @*Mobile AppBar*@
-<div style="position: fixed; z-index: 50; width: 100%; height: 100%;" class="d-flex d-md-none" 
+<div style="position: fixed; z-index: 50; width: 100%; height: 10%; bottom:  0;" class="d-flex d-lg-none"
      data-aos="zoom-in" data-aos-duration="600" data-aos-easing="ease-in-out">
     <AppBar></AppBar>
 </div>
 
-
-<MudPaper Style="top: 0; margin-bottom: 8vw;" Elevation="10">
+<MudPaper Style="top: 0; margin-bottom: 8vw;" Elevation="0">
     
     @*Medium and large view*@
-    <MudImage Src="Photos/MainPhoto.jpg" Fluid="true" Elevation="10" Class="HomePhoto d-none d-md-flex z-10" />
-    
-    <MudPaper Style="position: absolute; top: 2vw; left: 38vw; width: 25%; background-color: transparent;" 
-              Elevation="0" Class = "d-none d-md-flex z-20">
-        <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out"
-             data-aos-mirror="true">
-           <MudImage Src="Logos/LogoBlack.png" Fluid="true" Class="HomeLogo z-10"/>
-       </div>
-    </MudPaper>
+    <MudImage Src="Photos/MainPhoto.jpg" Fluid="true" Elevation="0" Class="HomePhoto d-none d-lg-flex z-10" />
+            <div class="HomeCircle d-none d-md-flex" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out"
+                 data-aos-mirror="true">
+                <img src="Logos/LogoBlack.png" class="HomeLogo d-none d-md-flex"/>
+        </div>
     
     
     @*Mobile view*@
-    <MudImage Src="Photos/MainPhotoPhone.jpg" Elevation="10" Class="HomePhotoPhone d-flex d-md-none z-10" 
+    <MudImage Src="Photos/MainPhotoMobile.jpg" Elevation="0" Class="HomePhotoPhone d-flex d-lg-none z-10" 
               Fluid="true"/>
-
-    <MudPaper Style="z-index: 10; position: absolute; top: 5vw; left: 31vw; width: 45%; background-color: transparent" Elevation="0" Class="d-flex d-md-none z-20">
-        <div data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out">
-            <MudImage Src="Logos/LogoBlack.png" Fluid="true" Class="HomeLogo z-10"/>
-        </div>
-    </MudPaper>
+    
+    <div class="HomeCircleMobile d-flex d-md-none" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000" data-aos-easing="ease-in-out">
+        <img src="Logos/LogoBlack.png" class="HomeLogoMobile"/>
+    </div>
     
 </MudPaper>
 
 @*Indroduction 1*@
-<div class="introduction-1" style="height: 34vw; display: flex; margin-left: 5vw; margin-right: 5vw; margin-bottom: 8vw;" id="trigger-introduction1">
-    <div style="flex: 1; margin-right: 5vw;" data-aos="fade-right" data-aos-duration="1000"
-         data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-bottom">
-        <MudText Align="Align.Justify" Style="font-size: 4vw; text-shadow: 2px 1px 1vw grey;" 
-                 Color="Color.Primary"> @Localizer["Introduction1Header"]</MudText>
-        <MudText Align="Align.Justify" Style="font-size: 2vw">@Localizer["Introduction1"]</MudText>
+<div class="g-text-image-d-s g-text-image-d" id="trigger-introduction1">
+    <div class="g-text-d g-text-d-s">
+        <div class="global-text-t-div"></div>
+        <div class="global-text-t2-div"></div>
+        <div class="global-text-g-div">
+            <div class="global-text-text">
+                <text class="g-text-header">@Localizer["Introduction1Header"]</text><br/>
+                <text class="g-text-content">@Localizer["Introduction1"]</text>
+            </div>
+        </div>
+    </div>
+    <div class="g-image-d">
+        <div class="g-image-t-d"></div>
+        <img src="Photos/WellPhoto.jpg" class="g-image"/>
     </div>
     
-    <div style="flex: 1" data-aos="fade-left" data-aos-duration="2000" data-aos-easing="ease-in-out"
-         data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-bottom">
-        <MudImage Src="Photos/WellPhoto.jpg" Fluid="true" Elevation="10" Style="margin-top: 1vw"/>
-    </div>
 </div>
-
 
 @*Indroduction 2*@
-<div class="introduction-2" style="height: 70vw; margin-left: 5vw; margin-right: 5vw;" id="trigger-introduction2">
-    
-    <div style="z-index: 10; height: 70%;" data-aos="fade-down" data-aos-duration="1000" data-aos-easing="ease-in-out"
-         data-aos-anchor="#trigger-introduction1" data-aos-anchor-placement="center-center">
-        <MudImage Src="Photos/PhotoIntroduction2.jpg" Fluid="true" Elevation="10"/>
+<div class="g-text-image-d-m g-text-image-d">
+    <div class="g-text-d g-text-d-m g-text-d-2">
+        <div class="global-text-t-div"></div>
+        <div class="global-text-t2-div"></div>
+        <div class="global-text-g-div">
+            <div class="global-text-text">
+                <text class="g-text-header">@Localizer["Introduction2Header"]</text><br/>
+                <text class="g-text-content">@Localizer["Introduction2"]</text>
+            </div>
+        </div>
     </div>
-
-    <div style="margin-top: 3vw; z-index: 0;" data-aos="fade-up" data-aos-duration="1000"
-         data-aos-anchor="#trigger-introduction2" data-aos-anchor-placement="center-center">
-        <MudText Align="Align.Justify" Style="font-size: 4vw; text-shadow: 2px 1px 1vw grey;" 
-                 Color="Color.Primary"> @Localizer["Introduction2Header"]</MudText>
-        <MudText Align="Align.Justify" Style="font-size: 2vw">@Localizer["Introduction2"]</MudText>
+    <div class="g-image-d">
+        <div class="g-image-t-d"></div>
+        <img src="Photos/PhotoIntroduction2.jpg" class="g-image g-image-up"/>
     </div>
-
-
 </div>
 
-<div style="height: 2000px"></div>
+@*Indroduction 3*@
+<div class="g-text-image-d-m g-text-image-d">
+    <div class="g-text-d g-text-d-m">
+        <div class="global-text-t-div"></div>
+        <div class="global-text-t2-div"></div>
+        <div class="global-text-g-div">
+            <div class="global-text-text">
+                <text class="g-text-header">@Localizer["Introduction3Header"]</text><br/>
+                <text class="g-text-content">@Localizer["Introduction3"]</text>
+            </div>
+        </div>
+    </div>
+    <div class="g-image-d">
+        <div class="g-image-t-d"></div>
+        <img src="Photos/PhotoIntroduction3.jpg" class="g-image"/>
+    </div>
+</div>
 
 
 @code {

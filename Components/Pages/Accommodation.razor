@@ -1,0 +1,44 @@
+@page "/Accommodation"
+@using Studanka.Components.Layout
+
+@inject IStringLocalizer<Resource> Localizer;
+
+<PageTitle>@Localizer["PageTitle"] | @Localizer["DrawerAccommodations"]</PageTitle>
+
+<AppBar></AppBar>
+
+<Drawer></Drawer>
+
+<div class="accommodation-image">
+   <MudImage Src="Images/ImageAccommodtion.png" Class="accommodation-image" Fluid="true"/>
+</div>
+
+<div style="display: flex; margin-bottom: 10vw; margin-left: 5vw; margin-right: 5vw;">
+    <MudPaper Elevation="10" Style="height: 31vw; ; flex: 1; margin-right: 5vw;">
+        <MudCarousel Class="z-20" Style="height:100%; width: 100%; flex: 1;" ShowArrows="true" ShowBullets="false" EnableSwipeGesture="false" AutoCycle="false" TData="object">
+            <MudCarouselItem>
+                <div>
+                    <MudImage Src="Photos/Rooms/RoomA1.jpg" Fluid="true"></MudImage>
+                    <div class="accommodation-carousel-div">POKOJ 107</div>
+                </div>
+
+            </MudCarouselItem>
+            <MudCarouselItem Color="Color.Dark"> </MudCarouselItem>
+            <MudCarouselItem Color="Color.Error"> </MudCarouselItem>
+        </MudCarousel>
+    </MudPaper>
+    
+    <div class="accommodation-text">
+        <MudText Color="Color.Primary" Style="font-size: 4vw;">
+            @Localizer["DrawerAccommodations"]
+        </MudText>
+        <MudText Align="Align.Justify" Style="font-size: 2vw;">
+            @Localizer["AccommodationContent"]
+        </MudText>
+    </div>
+</div>
+
+
+@code {
+    
+}

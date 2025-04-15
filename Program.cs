@@ -1,5 +1,7 @@
 using MudBlazor.Services;
 using Studanka.Components;
+using Studanka.Components.Layout;
+using Studanka.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,8 @@ builder.Services.AddMudServices();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+builder.Services.AddScoped<DataService>();
 
 var app = builder.Build();
 

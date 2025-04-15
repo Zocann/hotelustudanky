@@ -1,25 +1,41 @@
 .AppBarRegular
 {
-    right: 30vw;
-    left: 30vw;
-    margin-top: 1vw;
-    height: 6vw;
+    top: 0;
+    right: 3%;
+    left: 3%;
+    margin-top: 1%;
+    height: 7em;
     position: fixed;
-    display: flex;
     z-index: 50;
 }
 
+
 .ButtonReservation
 {
+    float: left;
     width: 100%;
     height: 100%;
-    background-color: black;
-    color: white;
-    font-size: 2vw;
-    border-radius: 3vw;
-    border: black solid 2px;
-    box-shadow: 2px 2px 1px grey;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: solid 1px rgb(40, 40, 40);
     transition: 0.25s color, background-color;
+}
+
+.AppBarText
+{
+    color: black;
+    font-size: 2vw;
+    position: absolute;
+    transition: 0.5s margin-left;
+    transition-delay: 0.5s;
+}
+
+.AppBarCalendar
+{
+    left: 10%;
+    opacity: 0;
+    position: absolute;
+    height: 60%;
+    transition: 1s opacity;
 }
 
 .ButtonDiv
@@ -27,10 +43,8 @@
     width: 100%;
     height: 100%;
     margin-left: 1vw;
-    background-color: black;
-    border-radius: 6vw;
-    box-shadow: 2px 2px 1px grey;
-    border: black solid 2px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: solid 1px rgb(40, 40, 40);
     transition: 0.25s filter, background-color;
 }
 
@@ -59,15 +73,22 @@
     color: black;
     transition: 0.25s;
 }
+.ButtonReservation:hover .AppBarCalendar
+{
+    opacity: 1;
+    transition: 0.5s;
+    transition-delay: 0.5s;
+}
+
+.ButtonReservation:hover .AppBarText
+{
+    margin-left: 5vw;
+    transition: 1s;
+}
 
 #DivOptions:hover
 {
     background-color: white;
-    transition: 0.25s;
-}
-#DivOptions:hover #IconBarsRegular
-{
-    filter: invert(100%);
     transition: 0.25s;
 }
 
@@ -75,13 +96,8 @@
 {
     background-color: white;
     transition: 0.25s;
-    
 }
-#DivLogo:hover #ButtonLogoRegular
-{
-    filter: invert(100%);
-    transition: 0.25s;
-}
+
 
 
 
@@ -90,9 +106,9 @@
 
 .AppBarMobile
 {
-    right: 9vw;
-    left: 9vw;
-    height: 15vw;
+    right: 4%;
+    left: 4%;
+    height: 100%;
     margin-bottom: 7vw;
     position: fixed;
     display: flex;
@@ -103,22 +119,18 @@
 {
     width: 100%;
     height: 100%;
-    background-color: black;
-    color: white;
+    background-color: rgba(255, 255, 255, 0.7);
+    color: black;
     font-size: 4vw;
-    border-radius: 8vw;
-    border: black solid 2px;
-    box-shadow: 1px 1px 1px grey;
+    border: black solid 1px;
     transition: 0.1s color, background-color;
 }
 
 .ButtonDivMobile
 {
-    background-color: black;
-    border-radius: 9vw;
-    margin-left: 2vw;
-    border: black solid 2px;
-    box-shadow: 1px 1px 1px grey;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-left: 3vw;
+    border: black solid 1px;
     transition: 0.1s filter, background-color;
 }
 
@@ -131,41 +143,11 @@
     margin-top: 3%;
 }
 
-#IconBarsMobile
+.IconBarsMobile
 {
     height: 50%; 
     position: absolute; 
     z-index: 100; 
     margin-left: 4%;
-}
-
-.ButtonReservationMobile:active
-{
-    background-color: white;
-    color: black;
-    transition: 0.1s;
-}
-
-#DivOptionsMobile:active
-{
-    background-color: white;
-    transition: 0.1s;
-}
-#DivOptionsMobile:active #IconBarsMobile
-{
-    filter: invert(100%);
-    transition: 0.1s;
-}
-
-#DivLogoMobile:active
-{
-    background-color: white;
-    transition: 0.1s;
-
-}
-#DivLogoMobile:active #ButtonLogoMobile
-{
-    filter: invert(100%);
-    transition: 0.1s;
 }
 

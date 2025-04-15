@@ -1,0 +1,28 @@
+@using Studanka.Controllers
+@inject DataService DataService;
+
+
+@*Mobile view*@
+<MudOverlay @bind-Visible="DataService.SharedOpenOverlayStorno" DarkBackground AutoClose="true" ZIndex="200" 
+            Class="d-flex d-md-none" LockScroll="true">
+    <img src="PDFs/Storno.jpg" style="left: 5vw; top: 15%;
+     width: 90%; position: fixed;"/>
+</MudOverlay>
+
+@code {
+    
+    protected override void OnInitialized()
+    {
+        DataService.OnValueChanged += HandleValueChanged;
+    }
+
+    private void HandleValueChanged()
+    {
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        DataService.OnValueChanged -= HandleValueChanged;
+    }
+}

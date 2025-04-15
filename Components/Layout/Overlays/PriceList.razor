@@ -1,0 +1,37 @@
+@using Studanka.Controllers
+@inject DataService DataService;
+
+@*Regular view*@
+<MudOverlay @bind-Visible="DataService.SharedOpenOverlayPriceList" DarkBackground AutoClose="true" ZIndex="200" 
+            Class="d-none d-md-flex" LockScroll="true">
+    <img src="PDFs/PriceList.jpg" style="left: 2vw; top: 1vw;
+     width: 38%; position: fixed;"/>
+    <img src="PDFs/Storno.jpg" style="right: 2vw; top: 1vw;
+     width: 39%; position: fixed;"/>
+</MudOverlay>
+
+
+@*Mobile view*@
+<MudOverlay @bind-Visible="DataService.SharedOpenOverlayPriceList" DarkBackground AutoClose="true" ZIndex="200" 
+            Class="d-flex d-md-none" LockScroll="true">
+    <img src="PDFs/PriceList.jpg" style="left: 5vw; top: 15%;
+     width: 90%; position: fixed;"/>
+</MudOverlay>
+
+@code {
+    
+    protected override void OnInitialized()
+    {
+        DataService.OnValueChanged += HandleValueChanged;
+    }
+
+    private void HandleValueChanged()
+    {
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        DataService.OnValueChanged -= HandleValueChanged;
+    }
+}

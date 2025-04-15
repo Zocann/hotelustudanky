@@ -1,16 +1,83 @@
-
-.HomePhoto
+.HomeCircle
 {
-
+    left: 30vw;
+    top: 7vw;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.7);
+    height: 40vw;
+    width: 40vw;
+    border-radius: 20vw;
+    transition: 0.25s background-color;
+}
+.HomeCircle:hover
+{
+    background-color: white;
+    transition: 0.25s;
 }
 
 .HomeLogo
 {
-    
+    z-index: 10;
+    height: 70%;
+    margin-left: 11%;
+    margin-top: 10%;
+}
+
+.HomeTitle
+{
+    font-size: 4vw; text-shadow: 1px 1px 1px grey;
+}
+
+.HomeText
+{
+    font-size: 2vw;
 }
 
 
-h2
+.HomeCircleMobile
 {
-    text-shadow: 2px 1px 1px grey;
+    top: 10vw;
+    left: 10vw;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.7);
+    height: 80vw;
+    width: 80vw;
+    border-radius: 40vw;
+}
+
+.HomeLogoMobile
+{
+    z-index: 10;
+    height: 70%;
+    margin-left: 11%;
+    margin-top: 10%;
+}
+
+
+
+.Introduction
+{
+    margin-left: 5vw; 
+    margin-right: 5vw; 
+    margin-bottom: 8vw;
+}
+
+.IntroductionText
+{
+    flex: 1;
+}
+
+
+.CarouselButton
+{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+.CarouselImage
+{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
 }

@@ -1,15 +1,26 @@
 @using Microsoft.Extensions.FileSystemGlobbing.Internal.PathSegments
 @inject NavigationManager Navigation;
-    
-    <MudElement>
-        <MudButtonGroup Style="height: 30px" Color="Color.Primary" Variant="Variant.Text">
-        <MudButton  Style="font-size: 20px" OnClick='(() => ChangeLanguage("cs-CZ"))'>CZ</MudButton>
-        <MudButton  Style="font-size: 20px" OnClick='(() => ChangeLanguage("en-US"))'>EN</MudButton>
-        <MudButton  Style="font-size: 20px" OnClick='(() => ChangeLanguage("pl-PL"))'>PL</MudButton>
-        </MudButtonGroup> 
-        
-    </MudElement>
 
+@* Regular View*@
+<div style="display: flex; height: 4vw; border: solid rgb(40, 40, 40) 1px; margin-right: 1vw" class="d-none d-md-flex">
+    <button class="CultureButton" @onclick='(() => ChangeLanguage("cs-CZ"))'> CZ </button>
+    <MudDivider Vertical="true"/>
+    <button class="CultureButton" @onclick='(() => ChangeLanguage("en-US"))'> EN </button>
+    <MudDivider Vertical="true"/>
+    <button class="CultureButton" @onclick='(() => ChangeLanguage("pl-PL"))'> PL </button>
+</div>
+
+
+
+@*Mobile View*@
+<div style="display: flex; border: solid white 1px; height: 100%; width: 100%; " 
+     class="d-flex d-md-none">
+    <button class="CultureButtonMobile" @onclick='(() => ChangeLanguage("cs-CZ"))'> CZ </button>
+    <MudDivider Vertical="true"/>
+    <button class="CultureButtonMobile" @onclick='(() => ChangeLanguage("en-US"))'> EN </button>
+    <MudDivider Vertical="true"/>
+    <button class="CultureButtonMobile" @onclick='(() => ChangeLanguage("pl-PL"))'> PL </button>
+</div>
 
 @code {
 

@@ -1,0 +1,160 @@
+@using Studanka.Controllers
+@using Studanka.Components.Layout.Overlays
+
+@inject DataService DataService;
+@inject IStringLocalizer<Resource> Localizer;
+
+@*Drawer Regular*@
+<MudDrawer @bind-Open="DataService.SharedOpenDrawer" OverlayAutoClose="true" Variant="DrawerVariant.Temporary"
+           Anchor="Anchor.Right" Class="Drawer z-50 d-none d-md-flex" Width="23%" Elevation="0">
+    
+    <div class="DrawerNavLink" style="margin-top: 35%">
+        <button class="DrawerButton" onclick = "window.location.href = '/Accommodation'">
+            <img class="DrawerIcon" src="Icons/IconAccommodation.svg"/>
+            <text class="DrawerText">@Localizer["DrawerAccommodations"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLink">
+        <button class="DrawerButton" onclick = "window.location.href = '/Restaurant'">
+            <img class="DrawerIcon" src="Icons/IconRestaurant.svg"/>
+            <text class="DrawerText">@Localizer["DrawerRestaurant"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLink">
+        <button class="DrawerButton" onclick = "window.location.href = '/Relax'">
+            <img class="DrawerIcon" src="Icons/IconSpa.svg"/>
+            <text class="DrawerText">@Localizer["DrawerRelax"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLink DrawerNavLinkParent">
+        <button class="DrawerButton" @onclick="OpenOverlayPriceList">
+            <img class="DrawerIcon" src="Icons/IconPrice.svg"/>
+            <text class="DrawerText">@Localizer["DrawerPriceList"]</text>
+        </button>
+    </div>
+    
+    <div class="DrawerNavLink">
+        <button class="DrawerButton" onclick = "window.location.href = '/Surroundings'">
+            <img class="DrawerIcon" src="Icons/IconTree.svg"/>
+            <text class="DrawerText"> @Localizer["DrawerSurroundings"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLink">
+        <button class="DrawerButton">
+            <img class="DrawerIcon" src="Icons/IconContacts.svg"/>
+            <text class="DrawerText">@Localizer["DrawerContacts"]</text>
+        </button>
+    </div>
+    <div style="width: 100%; margin-right: 1vw">
+        <CultureSelector></CultureSelector>
+    </div>
+</MudDrawer>
+
+
+
+
+
+@*Drawer Mobile*@
+<MudDrawer @bind-Open="DataService.SharedOpenDrawer" OverlayAutoClose="true" Variant="DrawerVariant.Temporary"
+           Anchor="Anchor.Top" Class="DrawerMobile z-100 d-flex d-md-none" Width="100%" Elevation="0">
+
+    <div class="DrawerNavLinkMobile" style="margin-top: 3%">
+        <button class="DrawerButton" onclick = "window.location.href = '/Accommodation'">
+            <text class="DrawerTextMobile">@Localizer["DrawerAccommodations"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLinkMobile">
+        <button class="DrawerButton" onclick = "window.location.href = '/Restaurant'">
+            <text class="DrawerTextMobile">@Localizer["DrawerRestaurant"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLinkMobile">
+        <button class="DrawerButton" onclick = "window.location.href = '/Relax'">
+            <text class="DrawerTextMobile">@Localizer["DrawerRelax"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLinkMobile">
+        <button class="DrawerButton" @onclick="OpenOverlayPriceList">
+            <text class="DrawerTextMobile">@Localizer["DrawerPriceList"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLinkMobile">
+        <button class="DrawerButton" @onclick="OpenOverlayStorno">
+            <text class="DrawerTextMobile" style="font-size: 7vw;">@Localizer["DrawerCancellationConditions"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLinkMobile">
+        <button class="DrawerButton" onclick = "window.location.href = '/Surroundings'">
+            <text class="DrawerTextMobile"> @Localizer["DrawerSurroundings"]</text>
+        </button>
+    </div>
+
+    <div class="DrawerNavLinkMobile">
+        <button class="DrawerButton">
+            <text class="DrawerTextMobile">@Localizer["DrawerContacts"]</text>
+        </button>
+    </div>
+    
+    
+    <div style="width: 100%; height: 15%;">
+        <div style="position: absolute; left: 15%; width: 40%; height: 15%;">
+            <CultureSelector></CultureSelector>
+        </div>
+        <div style="position: absolute; width: 15%; height: 15%; right: 15%;">
+            <button @onclick="CloseDrawer"
+                style="background-color: transparent; backdrop-filter: blur(10px); width: 100%; height: 100%; border: solid white 1px;">
+                <img src="Icons/IconX.svg" style="height: 50%">
+            </button>
+        </div>
+        
+    </div>
+</MudDrawer>
+
+
+<PriceList/>
+<Storno/>
+
+
+@code {
+
+    private void CloseDrawer()
+    {
+        DataService.SharedOpenDrawer = false;
+    }
+    
+    private void OpenOverlayPriceList()
+    {
+        CloseDrawer();
+        DataService.SharedOpenOverlayPriceList = true;
+    }
+    
+    private void OpenOverlayStorno()
+    {
+        CloseDrawer();
+        DataService.SharedOpenOverlayStorno = true;
+    }
+    
+    protected override void OnInitialized()
+    {
+        DataService.OnValueChanged += HandleValueChanged;
+    }
+
+    private void HandleValueChanged()
+    {
+        InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        DataService.OnValueChanged -= HandleValueChanged;
+    }
+}

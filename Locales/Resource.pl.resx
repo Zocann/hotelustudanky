@@ -29,4 +29,57 @@
     <data name="Reservation" xml:space="preserve">
         <value>REZERWACJA</value>
     </data>
+    <data name="DrawerAccommodations" xml:space="preserve">
+        <value>ZAKWATEROWANIE</value>
+    </data>
+    <data name="DrawerCancellationConditions" xml:space="preserve">
+        <value>WARUNKI ANULOWANIA</value>
+    </data>
+    <data name="DrawerContacts" xml:space="preserve">
+        <value>ŁĄCZNOŚĆ</value>
+    </data>
+    <data name="DrawerLounge" xml:space="preserve">
+        <value>SALONIK</value>
+    </data>
+    <data name="DrawerMassages" xml:space="preserve">
+        <value>MASAŻE</value>
+    </data>
+    <data name="DrawerPlayground" xml:space="preserve">
+        <value>PLAC GIER I ZABAW</value>
+    </data>
+    <data name="DrawerPool" xml:space="preserve">
+        <value>BASEN</value>
+    </data>
+    <data name="DrawerPriceList" xml:space="preserve">
+        <value>CENNIK</value>
+    </data>
+    <data name="DrawerRelax" xml:space="preserve">
+        <value>RELAX</value>
+    </data>
+    <data name="DrawerRestaurant" xml:space="preserve">
+        <value>RESTAURACJA</value>
+    </data>
+    <data name="DrawerRoutes" xml:space="preserve">
+        <value>TRASY TURYSTYCZNE</value>
+    </data>
+    <data name="DrawerSurroundings" xml:space="preserve">
+        <value>OKOLICA</value>
+    </data>
+    <data name="DrawerVillage" xml:space="preserve">
+        <value>WIEŚ</value>
+    </data>
+    <data name="Introduction3" xml:space="preserve">
+        <value>Nasz rodzinny hotel jest punktem wyjścia dla wielu szlaków turystycznych na grzbiety Beskidów. Ścieżki są dostępne dla rowerów górskich, a zimą na nartach biegowych. Coraz częściej zgłaszają się do nas również seniorzy, którzy z kolei są zadowoleni z łatwości dotarcia do krótszych tras w okolicy oraz dostępności naszego hotelu o każdej porze roku. Zapraszamy wszystkich, którzy szukają noclegu, miejsca na biznesowy lunch lub rodzinną kolację, celu „niedzielnego” wypadu lub przytulnej przestrzeni na seminarium lub inną uroczystość.</value>
+    </data>
+    <data name="Introduction3Header" xml:space="preserve">
+        <value>SPACER PO LOKALNYM KRAJOBRAZIE</value>
+    </data>
+    <data name="Promotion" xml:space="preserve">
+        <value>OFERTA SPECJALNA</value>
+    </data>
+    <data name="AccommodationContent" xml:space="preserve">
+        <value>Hotel oferuje zakwaterowanie w 16 mniejszych, przytulnych pokojach 2-osobowych z możliwością dostawki oraz 4 apartamentach dla 2–5 osób.
+
+Wszystkie pokoje posiadają własną łazienkę (prysznic, umywalka, toaleta, ręczniki, TV, bezpłatne Wi-Fi). Większość pokoi posiada balkon z fotelami.</value>
+    </data>
 </root>

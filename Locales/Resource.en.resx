@@ -30,4 +30,57 @@ In the forest you will meet not only tourists, but also its original inhabitants
     <data name="Reservation" xml:space="preserve">
         <value>RESERVATION</value>
     </data>
+    <data name="DrawerAccommodations" xml:space="preserve">
+        <value>ACCOMODATION</value>
+    </data>
+    <data name="DrawerCancellationConditions" xml:space="preserve">
+        <value>CANCELLATION CONDITIONS</value>
+    </data>
+    <data name="DrawerContacts" xml:space="preserve">
+        <value>CONTACTS</value>
+    </data>
+    <data name="DrawerLounge" xml:space="preserve">
+        <value>LOUNGE</value>
+    </data>
+    <data name="DrawerMassages" xml:space="preserve">
+        <value>MASSAGES</value>
+    </data>
+    <data name="DrawerPlayground" xml:space="preserve">
+        <value>KIDS PLAYGROUND</value>
+    </data>
+    <data name="DrawerPool" xml:space="preserve">
+        <value>POOL</value>
+    </data>
+    <data name="DrawerPriceList" xml:space="preserve">
+        <value>PRICE LIST</value>
+    </data>
+    <data name="DrawerRelax" xml:space="preserve">
+        <value>RELAX</value>
+    </data>
+    <data name="DrawerRestaurant" xml:space="preserve">
+        <value>RESTAURANT</value>
+    </data>
+    <data name="DrawerRoutes" xml:space="preserve">
+        <value>TOURIST ROUTES</value>
+    </data>
+    <data name="DrawerSurroundings" xml:space="preserve">
+        <value>SURROUNDINGS</value>
+    </data>
+    <data name="DrawerVillage" xml:space="preserve">
+        <value>VILLAGE</value>
+    </data>
+    <data name="Introduction3" xml:space="preserve">
+        <value>Our family hotel is the starting point of many hiking trails to the Beskydy ridges, the paths are passable by mountain bikes and in winter by cross-country skis. We are also increasingly sought out by seniors, who, on the other hand, are satisfied with the simplicity of shorter routes in the area and the availability of our hotel in all seasons. You are welcome here, whether you are looking for accommodation, a place for a business lunch or a family dinner, a destination for a "Sunday" trip, or cozy spaces for a seminar or any celebration.</value>
+    </data>
+    <data name="Introduction3Header" xml:space="preserve">
+        <value>WALKING THROUGH THE LOCAL LANDSCAPE</value>
+    </data>
+    <data name="Promotion" xml:space="preserve">
+        <value>PROMOTIONAL OFFER</value>
+    </data>
+    <data name="AccommodationContent" xml:space="preserve">
+        <value>The hotel offers accommodation in 16 smaller, cozy rooms for 2 people with the possibility of an extra bed and 4 apartments for 2-5 people.
+
+All rooms have their own bathroom (shower, sink, toilet, towels, TV, free Wi-Fi). Most rooms have a balcony with armchairs.</value>
+    </data>
 </root>

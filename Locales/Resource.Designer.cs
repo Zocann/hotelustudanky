@@ -92,5 +92,107 @@ namespace Studanka.Locales {
                 return ResourceManager.GetString("Reservation", resourceCulture);
             }
         }
+        
+        internal static string DrawerAccommodations {
+            get {
+                return ResourceManager.GetString("DrawerAccommodations", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerRestaurant {
+            get {
+                return ResourceManager.GetString("DrawerRestaurant", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerLounge {
+            get {
+                return ResourceManager.GetString("DrawerLounge", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerPriceList {
+            get {
+                return ResourceManager.GetString("DrawerPriceList", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerCancellationConditions {
+            get {
+                return ResourceManager.GetString("DrawerCancellationConditions", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerRelax {
+            get {
+                return ResourceManager.GetString("DrawerRelax", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerMassages {
+            get {
+                return ResourceManager.GetString("DrawerMassages", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerPool {
+            get {
+                return ResourceManager.GetString("DrawerPool", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerSurroundings {
+            get {
+                return ResourceManager.GetString("DrawerSurroundings", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerVillage {
+            get {
+                return ResourceManager.GetString("DrawerVillage", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerPlayground {
+            get {
+                return ResourceManager.GetString("DrawerPlayground", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerRoutes {
+            get {
+                return ResourceManager.GetString("DrawerRoutes", resourceCulture);
+            }
+        }
+        
+        internal static string DrawerContacts {
+            get {
+                return ResourceManager.GetString("DrawerContacts", resourceCulture);
+            }
+        }
+        
+        internal static string Introduction3 {
+            get {
+                return ResourceManager.GetString("Introduction3", resourceCulture);
+            }
+        }
+        
+        internal static string Introduction3Header {
+            get {
+                return ResourceManager.GetString("Introduction3Header", resourceCulture);
+            }
+        }
+        
+        internal static string Promotion {
+            get {
+                return ResourceManager.GetString("Promotion", resourceCulture);
+            }
+        }
+        
+        internal static string AccommodationContent {
+            get {
+                return ResourceManager.GetString("AccommodationContent", resourceCulture);
+            }
+        }
     }
 }

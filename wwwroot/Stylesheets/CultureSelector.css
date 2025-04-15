@@ -1,0 +1,25 @@
+.CultureButton {
+    flex: 1;
+    color: rgb(40, 40, 40);
+    background-color: rgba(255, 255, 255, 0.7);
+    transition: 0.25s , background-color;
+}
+
+.CultureButton:hover {
+    background-color: white;
+     transition: 0.25s;
+}
+
+.CultureButtonMobile
+{
+    flex: 1;
+    color: white;
+    background-color: transparent;
+    backdrop-filter: blur(10px) ;
+    transition: 0.15s , background-color;
+}
+
+.CultureButtonMobile:active {
+    background-color: white;
+    transition: 0.15s;
+}

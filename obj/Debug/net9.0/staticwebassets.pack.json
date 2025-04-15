@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/karelmareth/Documents/Projects/Studanka/obj/Debug/net9.0/scopedcss/projectbundle/Studanka.bundle.scp.css",
-      "PackagePath": "staticwebassets/Studanka.g1ju4z7nt7.bundle.scp.css"
-    },
-    {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Fonts/Trebuchet.ttf",
       "PackagePath": "staticwebassets/Fonts/Trebuchet.ttf"
     },
@@ -21,8 +17,48 @@
       "PackagePath": "staticwebassets/Fonts/TrebuchetItalic.ttf"
     },
     {
-      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsWhite.svg",
-      "PackagePath": "staticwebassets/Icons/IconBarsWhite.svg"
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconAccommodation.svg",
+      "PackagePath": "staticwebassets/Icons/IconAccommodation.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconBarsBlack.svg",
+      "PackagePath": "staticwebassets/Icons/IconBarsBlack.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconCalendar.svg",
+      "PackagePath": "staticwebassets/Icons/IconCalendar.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconContacts.svg",
+      "PackagePath": "staticwebassets/Icons/IconContacts.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconPrice.svg",
+      "PackagePath": "staticwebassets/Icons/IconPrice.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconPromotion.svg",
+      "PackagePath": "staticwebassets/Icons/IconPromotion.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconRestaurant.svg",
+      "PackagePath": "staticwebassets/Icons/IconRestaurant.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconSpa.svg",
+      "PackagePath": "staticwebassets/Icons/IconSpa.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconTree.svg",
+      "PackagePath": "staticwebassets/Icons/IconTree.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Icons/IconX.svg",
+      "PackagePath": "staticwebassets/Icons/IconX.svg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Images/ImageAccommodtion.png",
+      "PackagePath": "staticwebassets/Images/ImageAccommodtion.png"
     },
     {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/JavaScript/animation.js",
@@ -41,6 +77,14 @@
       "PackagePath": "staticwebassets/Logos/LogoBlackNoText.svg"
     },
     {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoFooter1.jpg",
+      "PackagePath": "staticwebassets/Logos/LogoFooter1.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoFooter2.jpg",
+      "PackagePath": "staticwebassets/Logos/LogoFooter2.jpg"
+    },
+    {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Logos/LogoWhite.png",
       "PackagePath": "staticwebassets/Logos/LogoWhite.png"
     },
@@ -49,24 +93,76 @@
       "PackagePath": "staticwebassets/Logos/LogoWhiteNoText.png"
     },
     {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/PDFs/PriceList.jpg",
+      "PackagePath": "staticwebassets/PDFs/PriceList.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/PDFs/Storno.jpg",
+      "PackagePath": "staticwebassets/PDFs/Storno.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/Accommodation.jpg",
+      "PackagePath": "staticwebassets/Photos/Accommodation.jpg"
+    },
+    {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhoto.jpg",
       "PackagePath": "staticwebassets/Photos/MainPhoto.jpg"
     },
     {
-      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoPhone.jpg",
-      "PackagePath": "staticwebassets/Photos/MainPhotoPhone.jpg"
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/MainPhotoMobile.jpg",
+      "PackagePath": "staticwebassets/Photos/MainPhotoMobile.jpg"
     },
     {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/PhotoIntroduction2.jpg",
       "PackagePath": "staticwebassets/Photos/PhotoIntroduction2.jpg"
     },
     {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/PhotoIntroduction3.jpg",
+      "PackagePath": "staticwebassets/Photos/PhotoIntroduction3.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/Relax.jpeg",
+      "PackagePath": "staticwebassets/Photos/Relax.jpeg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/Restaurant.jpg",
+      "PackagePath": "staticwebassets/Photos/Restaurant.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/Rooms/RoomA1.jpg",
+      "PackagePath": "staticwebassets/Photos/Rooms/RoomA1.jpg"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/Surroundings.jpg",
+      "PackagePath": "staticwebassets/Photos/Surroundings.jpg"
+    },
+    {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Photos/WellPhoto.jpg",
       "PackagePath": "staticwebassets/Photos/WellPhoto.jpg"
     },
     {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Accommodation.css",
+      "PackagePath": "staticwebassets/Stylesheets/Accommodation.css"
+    },
+    {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/AppBar.css",
       "PackagePath": "staticwebassets/Stylesheets/AppBar.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/CultureSelector.css",
+      "PackagePath": "staticwebassets/Stylesheets/CultureSelector.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Drawer.css",
+      "PackagePath": "staticwebassets/Stylesheets/Drawer.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Footer.css",
+      "PackagePath": "staticwebassets/Stylesheets/Footer.css"
+    },
+    {
+      "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Global.css",
+      "PackagePath": "staticwebassets/Stylesheets/Global.css"
     },
     {
       "Id": "/Users/karelmareth/Documents/Projects/Studanka/wwwroot/Stylesheets/Home.css",

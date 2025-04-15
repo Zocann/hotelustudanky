@@ -29,4 +29,57 @@
     <data name="Reservation" xml:space="preserve">
         <value>REZERVOVAT</value>
     </data>
+    <data name="DrawerAccommodations" xml:space="preserve">
+        <value>UBYTOVÁNÍ</value>
+    </data>
+    <data name="DrawerCancellationConditions" xml:space="preserve">
+        <value>STORNO PODMÍNKY</value>
+    </data>
+    <data name="DrawerContacts" xml:space="preserve">
+        <value>KONTAKTY</value>
+    </data>
+    <data name="DrawerLounge" xml:space="preserve">
+        <value>SALÓNEK</value>
+    </data>
+    <data name="DrawerMassages" xml:space="preserve">
+        <value>MASÁŽE</value>
+    </data>
+    <data name="DrawerPlayground" xml:space="preserve">
+        <value>DĚTŠSKÉ HŘIŠTĚ</value>
+    </data>
+    <data name="DrawerPool" xml:space="preserve">
+        <value>BAZÉN</value>
+    </data>
+    <data name="DrawerPriceList" xml:space="preserve">
+        <value>CENÍK</value>
+    </data>
+    <data name="DrawerRelax" xml:space="preserve">
+        <value>RELAX</value>
+    </data>
+    <data name="DrawerRestaurant" xml:space="preserve">
+        <value>RESTAURACE</value>
+    </data>
+    <data name="DrawerRoutes" xml:space="preserve">
+        <value>TURISTICKÉ TRASY</value>
+    </data>
+    <data name="DrawerSurroundings" xml:space="preserve">
+        <value>OKOLÍ</value>
+    </data>
+    <data name="DrawerVillage" xml:space="preserve">
+        <value>OBEC</value>
+    </data>
+    <data name="Introduction3" xml:space="preserve">
+        <value>Náš rodinný hotýlek je východiskem mnoha turistických stezek na hřebeny Beskyd, cesty jsou sjízdné na horských kolech a v zimě na běžkách. Stále častěji nás také vyhledávají senioři, kterým naopak vyhovuje nenáročnost kratších tras po okolí a dostupnost našeho hotelu ve všech ročních obdobích. U nás jste vítáni, ať už hledáte ubytování, místo pro pracovní oběd, či rodinnou večeři, cíl pro „nedělní“ výlet, anebo útulné prostory pro seminář či jakoukoliv oslavu.</value>
+    </data>
+    <data name="Introduction3Header" xml:space="preserve">
+        <value>TOULKY MÍSTNÍ KRAJINOU</value>
+    </data>
+    <data name="Promotion" xml:space="preserve">
+        <value>AKČNÍ NABÍDKA</value>
+    </data>
+    <data name="AccommodationContent" xml:space="preserve">
+        <value>Hotel nabízí ubytování v 16 menších útulných pokojích pro 2 osoby s možností přistýlky a 4 apartmánech pro 2–5 osob.
+
+Všechny pokoje mají vlastní sociální zařízení (sprchový kout, umyvadlo, WC, ručníky, TV, Wi-Fi free). Součástí většiny pokojů je balkon s křesílky.</value>
+    </data>
 </root>
